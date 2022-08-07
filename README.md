@@ -1,4 +1,5 @@
 # Arquitetura de componentes
+Eu, como aluno do Bootcamp Santander Full Stack da Digital Inovation One, estou clonando o código da instrutora de Front End do Angular para utilizar os recursos de versionamento de códigos através do GIT/GITHUB
 
 Projeto desenvolvido para exemplificar os tipos de data binding do Angular.
 
